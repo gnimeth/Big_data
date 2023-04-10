@@ -31,7 +31,7 @@ findspark.init()
 ```
 
 
-# Roadmap
+## Roadmap
 - Create a temporary table called home_sales.
 
 - Answer the following questions using SparkSQL:
